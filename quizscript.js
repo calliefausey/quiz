@@ -2,11 +2,11 @@ $(document).ready(function() {
  $("#Go!").click(function() {
 	$("#Go!").hide();
 	$("#p1").show();
-	$("#Aimg").slideDown();
 	});
-	$("#show1").click(function() {
-	$("#show1").hide();
+	$("#p1").click(function() {
+	$("#Go!").hide();
 	$("#a1").show();
+	$("#Aimg").slideDown();
 	$("#next1").show();
 	});
 
