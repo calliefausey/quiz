@@ -6,5 +6,5 @@ $(document).ready(function() {
 	$("#p2").click(function() {
 		$("#a2").show();
 		$("Limg").slideDown("slow");
-	})
+	}) 
 });
