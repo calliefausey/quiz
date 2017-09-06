@@ -1,5 +1,5 @@
 $(document).ready(function() {
- $("#start").click(function() {
+ $("#Go!").click(function() {
 	$("#Go!").hide();
 	$("#p1").show();
 	$("#Aimg").slideDown();
