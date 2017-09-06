@@ -10,15 +10,6 @@ h1 {
 	font-family: Comic Sans MS;
 }
 
-
-#a1 {
-	display: none;
-}
-#a2 {
-	display: none;
-	
-}
-
-#Aimg {
+.hidden { 
 	display: none;
 }
