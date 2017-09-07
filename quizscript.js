@@ -1,9 +1,19 @@
 $(document).ready(function() {
-	$("#p1").click(function() {
-	$("#a1").show();
-	$("#Aimg").slideDown("slow");
+	$("#q1").click(function() {
+	$("#a1").toggle();
+	$("#Aimg").toggle();
 	})
-	$("#p2").click(function() {
-		$("#a2").show();
+	$("#q2").click(function() {
+	$("#a2").toggle();
+	$("#Limg").toggle();
 	})
+	$("#q3").click(function() {
+	$("#a3").toggle();
+	$("#Cimg").toggle();
+	})
+	$("#q4").click(function() {
+	$("#a4").toggle();
+	$("#Mimg").toggle();
+	})
+	   
 });
