@@ -1,6 +1,9 @@
 $(document).ready(function() {
-	$("#start").click(function() {
-	$("#start").hide();
-	$("#q1").show();
-	$("#show1").show();
-	});
+	$("#p1").click(function() {
+	$("#a1").show();
+	$("#Aimg").slideDown("slow");
+	})
+	$("#p2").click(function() {
+		$("#a2").show();
+	})
+});
