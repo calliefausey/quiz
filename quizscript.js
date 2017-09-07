@@ -1,12 +1,13 @@
+
 $(document).ready(function() {
- $("#Go!").click(function() {
-	$("#Go!").hide();
-	$("#p1").show();
+	$("#start").click(function() {
+	$("#start").hide();
+	$("#q1").show();
+	$("#show1").show();
 	});
-	$("#p1").click(function() {
-	$("#Go!").hide();
+	$("#show1").click(function() {
+	$("#show1").hide();
 	$("#a1").show();
-	$("#Aimg").slideDown();
 	$("#next1").show();
 	});
 
