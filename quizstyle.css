@@ -1,5 +1,11 @@
 body {
-  background-color: lightblue;
+  text-align: center;
+  background-color: powderblue;
+}
+
+h {
+	color: purple;
+	font: Comic Sans Ms
 }
 
 .hidden {
