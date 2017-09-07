@@ -1,13 +1,20 @@
 body {
-  text-align: center;
-  background-color: powderblue;
+
+	background-color: powderblue;
+	text-align: center;
 }
 
-h {
+h1 {
+	text-align: center;
 	color: purple;
-	font-family: Comic Sans Ms
+	font-family: Comic Sans MS;
 }
 
 .hidden {
-	display: none;
+	display:none;
 }
+
+Aimg {
+	margin: 25px;
+}
+
