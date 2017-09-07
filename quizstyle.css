@@ -3,9 +3,9 @@ body {
   background-color: powderblue;
 }
 
-h {
+head {
 	color: purple;
-	font: Comic Sans Ms
+	font-family: Comic Sans Ms
 }
 
 .hidden {
