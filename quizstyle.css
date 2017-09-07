@@ -8,13 +8,31 @@ h1 {
 	text-align: center;
 	color: purple;
 	font-family: Comic Sans MS;
+	font-size: 35px;
+}
+
+p {
+	font-family: Comic Sans Ms;
+	font-size: 25px;
 }
 
 .hidden {
 	display:none;
 }
 
-Aimg {
-	margin: 25px;
+
+#q1 {
+	color: rgb(135, 135, 226);
 }
 
+#q2 {
+	color:rgb(255, 250, 222);
+}
+
+#q3 {
+	color: rgb(159, 90, 77);
+}
+
+#q4 {
+	color: rgb(241, 176, 200);
+}
